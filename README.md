@@ -1,5 +1,5 @@
 # ROOT-analyser
-Plusieurs version du programme pour l'analyse de données issues de LHcb en 2016,2017,2018,2019, DD ou LL et la combinaisons de plusieurs années. Pour plus de détails, le rapport est disponible (en anglais). Programmes par Bonafous Erwan & Couriol Florian
+Plusieurs version du programme pour l'analyse de données issues de LHcb en 2016,2017,2018,2019, DD ou LL et la combinaisons de plusieurs années. Pour plus de détails, le rapport est disponible (en anglais). Travaux de Bonafous Erwan & Couriol Florian.
 
 
 Quelques résultats: 
